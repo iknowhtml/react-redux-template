@@ -7,6 +7,6 @@ Checkout this repo, install dependencies, then run the following commands in the
 ```
 > git clone https://github.com/iknowhtml/react-redux-template.git
 > cd react-redux-template
-> npm install
-> npm start
+> yarn install
+> yarn start
 ```
