@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A basic template for a React & Redux application.",
   "main": "index.js",
-  "repository": "https://github.com/iknowhtml/redux-book-template.git",
+  "repository": "https://github.com/iknowhtml/react-redux-template.git",
   "scripts": {
     "start": "webpack-dev-server --progress --inline",
     "build": "webpack -p"
